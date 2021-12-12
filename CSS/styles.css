@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family:monospace;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    color: #1b1f6a;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+
+h2 {
+    font-size: 2.5rem; 
+    font-weight: normal;
+    color: #1b1f6a;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #1b1f6a;
+    font-weight: bold;
+}
+
+a {
+    color: #1b1f6a;
+}
+
+a:hover {
+    color: #7d84ff;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted #e4e4e4 5px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.top-container {
+    background-color: #f8f8f7;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-description {
+    font-size: 1rem;
+    color: #1b1f6a;
+}
+
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    background-color: #f8f8f7;
+    padding: 50px 0 20px;
+}
+
+.signature {
+    margin: 30px auto;
+}
+
+.footer-link {
+    color: #1b1f6a;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 20px;
+}
+
+
+.skill-row {
+    text-align: left;
+    margin: 100px auto 100px auto;
+    width: 50%;
+    line-height: 2;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 250px;
+    top: 50px;
+    width: 250px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    top: 250px;
+    left: 250px;
+    width: 250px;
+}
+
+.landing {
+    margin-top: 50px;
+}
+
+.portrait-picture {
+    width: 128px;
+}
+
+.data-skill {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.python-skill {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #333a9c;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3f47bf;
+    text-decoration: none;
+  }
